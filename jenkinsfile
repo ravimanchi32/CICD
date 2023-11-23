@@ -14,7 +14,7 @@ pipeline {
 
         stage('CODE CHECKOUT') {
             steps {
-                git 'https://github.com/ravimanchi0321/devops-project.git'
+                git 'https://github.com/ravimanchi32/CICD.git'
             }
         }
         
